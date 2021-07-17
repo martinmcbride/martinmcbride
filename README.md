@@ -1,4 +1,19 @@
 ### Hi there 👋
+I am currently working on:
+* [generativepy](https://github.com/martinmcbride/generativepy) generative art library for Python.
+* [Image processing in Python](https://leanpub.com/imageprocessinginpython) book on leanpub.
+* [Examples](https://github.com/martinmcbride/python-imaging-book-examples) for the Image processing in Python book.
+* [Quack](https://github.com/martinmcbride/quack) a graphical front end for CSound.
+
+Websites:
+* [PythonInformer.com](https://www.pythoninformer.com) articles on Python programming.
+* [martinmcbride.org](https://www.martinmcbride.org) personal blog, mainly about generative art and computer music.
+
+How to reach me:
+* [Twitter](https://twitter.com/MartinMcBride64) @MartinMcBride64
+* [Leanpub](https://leanpub.com/u/martinmcbride)
+* [Medium](https://mcbride-martin.medium.com/)
+* [LinkedIn](https://www.linkedin.com/in/martinmcbride64/)
 
 <!--
 **martinmcbride/martinmcbride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
