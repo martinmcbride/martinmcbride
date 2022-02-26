@@ -1,9 +1,7 @@
-### Hi there 👋
 I am currently working on:
 * [generativepy](https://github.com/martinmcbride/generativepy) generative art library for Python.
 * [Pysound](https://github.com/martinmcbride/pysound) experimental sound synthesis in Python.
 * [Examples](https://github.com/martinmcbride/python-imaging-book-examples) for the Image processing in Python book.
-* [Quack](https://github.com/martinmcbride/quack) a graphical front end for CSound.
 
 Websites:
 * [PythonInformer.com](https://www.pythoninformer.com) articles on Python programming.
