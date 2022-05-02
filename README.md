@@ -1,10 +1,13 @@
 I am currently working on:
 * [generativepy](https://github.com/martinmcbride/generativepy) generative art library for Python.
+* [pybooksite](https://github.com/martinmcbride/pybooksite) static site generator in Python.
+* Maths videos using genertaivepy - [youtube](https://www.youtube.com/channel/UC27NyIzwM-g21nzQzyK8xNA/videos).
 * [Pysound](https://github.com/martinmcbride/pysound) experimental sound synthesis in Python.
 * [Examples](https://github.com/martinmcbride/python-imaging-book-examples) for the Image processing in Python book.
 
 Websites:
 * [PythonInformer.com](https://www.pythoninformer.com) articles on Python programming.
+* [graphicmaths.com](https://www.graphicmaths.com) maths illustrations and animations mainly made with generativepy.
 * [martinmcbride.org](https://www.martinmcbride.org) personal blog, mainly about generative art and computer music.
 
 How to reach me:
