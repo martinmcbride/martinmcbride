@@ -1,20 +1,18 @@
 I am currently working on:
 * [generativepy](https://github.com/martinmcbride/generativepy) generative art library for Python.
-* [pybooksite](https://github.com/martinmcbride/pybooksite) static site generator in Python.
-* Maths videos using generativepy - [youtube](https://www.youtube.com/channel/UC27NyIzwM-g21nzQzyK8xNA/videos).
-* [Pysound](https://github.com/martinmcbride/pysound) experimental sound synthesis in Python.
-* [Examples](https://github.com/martinmcbride/python-imaging-book-examples) for the Image processing in Python book.
+* Maths articles on [GraphicMaths.com](https://www.graphicmaths.com) and [Medium.com](https://mcbride-martin.medium.com/).
+* A new book on complex numbers.
 
 Websites:
-* [PythonInformer.com](https://www.pythoninformer.com) articles on Python programming.
 * [GraphicMaths.com](https://www.graphicmaths.com) maths illustrations and animations mainly made with generativepy.
+* [PythonInformer.com](https://www.pythoninformer.com) articles on Python programming.
 * [martinmcbride.org](https://www.martinmcbride.org) personal blog, mainly about generative art and computer music.
 
 How to reach me:
-* [Twitter](https://twitter.com/MartinMcBride64) @MartinMcBride64
-* [Leanpub](https://leanpub.com/u/martinmcbride)
+* martin@axlesoft.com
 * [Medium](https://mcbride-martin.medium.com/)
-* [LinkedIn](https://www.linkedin.com/in/martinmcbride64/)
+* [Leanpub](https://leanpub.com/u/martinmcbride)
+* [LinkedIn](https://www.linkedin.com/in/martin-mcbride-0014b5257/)
 
 <!--
 **martinmcbride/martinmcbride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
