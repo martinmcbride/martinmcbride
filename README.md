@@ -1,8 +1,7 @@
 I am currently working on:
 * [generativepy](https://github.com/martinmcbride/generativepy), a maths, graphing, and diagramming library for Python.
-* [genpyblender](https://github.com/martinmcbride/genpyblender) extension to generativepy that uses Blender and Python to create 3D graphs.
 * Maths and programming articles on [GraphicMaths.com](https://www.graphicmaths.com), [PythonInformer.com](https://www.pythoninformer.com) and [Medium.com](https://mcbride-martin.medium.com/).
-* A new book on complex numbers.
+* New features for [GraphMaths Calculators (gmcalc)](https://www.gmcalc.com).
 
 I have several books on maths and Python programming available:
 * [Amazon](https://www.amazon.com/stores/Martin-McBride/author/B07XSF9NFZ)
@@ -11,6 +10,7 @@ I have several books on maths and Python programming available:
 
 Websites:
 * [GraphicMaths.com](https://www.graphicmaths.com) maths illustrations and animations mainly made with generativepy.
+* [GraphMaths Calculators (gmcalc)](https://www.gmcalc.com) a companion site to GraphicMaths with various online calculators.
 * [PythonInformer.com](https://www.pythoninformer.com) articles on Python programming.
 
 How to contact me:
